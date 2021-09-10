@@ -1,2 +1,12 @@
 # Sapling-OS
-Micro operating system for learning, To young To simple,Some time to naive.
+
+   _____             _ _                     ____   _____ 
+  / ____|           | (_)                   / __ \ / ____|
+ | (___   __ _ _ __ | |_ _ __   __ _ ______| |  | | (___  
+  \___ \ / _` | '_ \| | | '_ \ / _` |______| |  | |\___ \ 
+  ____) | (_| | |_) | | | | | | (_| |      | |__| |____) |
+ |_____/ \__,_| .__/|_|_|_| |_|\__, |       \____/|_____/ 
+              | |               __/ |                     
+              |_|              |___/                      
+
+Micro operating system for learning, To young To simple, Some code To naive.
